@@ -8,7 +8,7 @@ using WebAPI.Attributes;
 
 namespace WebAPI.Controllers
 {
-    public class EmptyController : ApiController
+    public class FirstController : ApiController
     {
         // GET: Empty
         [BasicAuthentication]
